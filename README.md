@@ -38,6 +38,7 @@ The software is provided “As Is” and with no warranty, indemnitees or guaran
 
 # Authors
 This training material has been developed with contributions from:
+
 Stefan Neagu - sneagu@ptc.com
 
 Bogdan Baranga - bbaranga@ptc.com
