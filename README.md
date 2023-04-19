@@ -38,10 +38,5 @@ I acknowledge that I am not entitled to support assistance with respect to the s
 
 The software is provided “As Is” and with no warranty, indemnities or guarantees whatsoever, and PTC will have no liability whatsoever with respect to the software, including with respect to any intellectual property infringement claims or security incidents or data loss.
 
-# Authors
-
-This training material has been developed with contributions from:
-
-Stefan Neagu - sneagu@ptc.com
 
 Bogdan Baranga - bbaranga@ptc.com
