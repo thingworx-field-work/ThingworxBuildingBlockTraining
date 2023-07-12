@@ -8,11 +8,8 @@ The training prerequisite is solid knowledge and experience developing Thingworx
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
-
 Users accept all risk whatsoever regarding the security of the code they download.
-
 This software is not an official PTC product and is not officially supported by PTC.
-
 PTC is not responsible for any maintenance for this software.
 
 PTC will not accept technical support cases logged related to this Software.
