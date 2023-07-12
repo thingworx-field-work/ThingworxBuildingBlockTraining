@@ -11,15 +11,10 @@ By downloading this software, the user acknowledges that it is unsupported, not 
 Users accept all risk whatsoever regarding the security of the code they download.
 This software is not an official PTC product and is not officially supported by PTC.
 PTC is not responsible for any maintenance for this software. 
-
 PTC will not accept technical support cases logged related to this Software.
-
 This source code is offered freely and AS IS without any warranty.
-
 The author of this code cannot be held accountable for the well-functioning of it.
-
 The author shared the code that worked at a specific moment in time using specific versions of PTC products at that time, without the intention to make the code compliant with past, current or future versions of those PTC products.
-
 The author has not committed to maintain this code and he may not be bound to maintain or fix it.
 
 # License
