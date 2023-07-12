@@ -6,8 +6,8 @@ It consists of a manufacturing application that is 70% complete so that the trai
 
 The training prerequisite is solid knowledge and experience developing Thingworx applications with Thingworx Composer and Mashup Builder. Otherwise, this material can be difficult to follow and understand.
 
-# Keywords: 
-iot, thingworx, building blocks, solution framework
+# Keywords
+iot, thingworx, building blocks, solution framework, training
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
